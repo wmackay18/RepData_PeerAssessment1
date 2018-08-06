@@ -49,6 +49,7 @@ hist(agg_steps$steps, main = "steps per day", xlab = "steps")
 The mean of the total steps taken is `r mean_steps` ane the median is `r median_steps`.
 
 
+
 ## What is the average daily activity pattern?
 
 ```{r}
